@@ -1,0 +1,4 @@
+- 👋 Ola,meu nome é @samuel0413232
+- 👀 meu email de contato é samuel.mocellin@escola.pr.gov.br
+- 🌱 eu estou interessado em aprenderprograma novas linguagens
+- eu estou aprender a programar na linguagens de JavaScript e Scratch
